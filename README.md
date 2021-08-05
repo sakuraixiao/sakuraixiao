@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakuraixiao
 - 👀 I’m interested in wed development.
-- 🌱 I’m currently learning javasript.
+- 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on frontend tech.
 - 📫 How to reach me 
 
